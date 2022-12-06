@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 
 Kodluyoruz Java ile Backend Web Development Eğitimi kapsamında açtığım ilk repo
-![proje resim](https://ibb.co/2FDsXB1)
+![proje resim](https://www.hizliresim.com/gydti1c)
 ## Installation
 
 Öncelikle projeyi clonelayın.
