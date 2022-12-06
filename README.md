@@ -19,3 +19,6 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+## Lisence
+[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+
